@@ -1,0 +1,272 @@
+body{
+    background-color: whitesmoke;
+}
+#div1{
+    border: 1px solid black;
+    width: 800px;
+    margin-left: 300px;
+    height: 1060px;
+}
+#div2{
+    background-color:#353535 ;
+    margin: 0px;
+    padding: 0px;
+    height: 140px;
+}
+#img1{
+    width: 130px;
+    height: 130px;
+    border-radius: 100px;
+    margin-left: 40px;
+    margin-top: 5px;
+    float: left;
+
+}
+#h11{
+    float: left;
+    color: white;
+    margin-left: 90px;
+    font-size: 40px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#div3{
+    background-color: rgb(207,197,197);
+    width: 270px;
+    height: 920px;
+    margin-top: 0px;
+    float: left;
+
+}
+#h22{
+    margin-left: 60px;
+    font-size: 30px;
+    padding-top: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+#h33{
+    margin-left: 80px;
+    font-size: 18px;
+    margin-bottom: 14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+#p1{
+    margin-left: 25px;
+    font-size: 19px;
+    margin-top: 10px;
+    font-weight: bold;
+    opacity: 0.8;
+}
+#h44{
+    margin-left: 80px;
+    padding-bottom: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    padding-top: 20px;
+}
+#label01{
+    font-size: 20px;
+    margin-left: 25px;
+    font-weight: bold;
+    opacity: 0.8;
+}
+#label02{
+    font-size: 20px;
+    margin-left: 10px;
+    font-weight: bold;
+    opacity: 0.8;
+}
+#h55{
+    margin-left: 80px;
+    margin-bottom: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    padding-top: 40px;
+}
+#p02{
+    font-size: 19px;
+    
+    margin-top: -20px;
+    margin-left: 70px;
+    font-weight: bold;
+    opacity: 0.8;
+
+}
+#div4{
+    background-color: #ededed;
+    width: 528px;
+    height: 920px;
+    float: left;
+}
+
+#label1{
+    font-size: 29px;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+    
+
+
+.fa-briefcase{
+    font-size: 32px;
+    margin-left: 20px;
+    padding-top: 30px;
+}
+#label2{
+    font-size: 23px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin-left: 60px;
+}
+#label4{
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 90px;
+
+}
+#label3{
+    font-size: 19px;
+    font-weight: bold;
+    margin-left: 60px;
+}
+#label5{
+    font-size: 23px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin-left: 60px;
+}
+#label6{
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 80px;
+}
+#label7{
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 60px;
+}
+#label8{
+    font-size: 23px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin-left: 60px;
+}
+#label9{
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 80px;
+}
+#label10{
+    margin-left: 60px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.fa-book{
+    font-size: 35px;
+    margin-left: 20px;
+    padding-top: 50px;
+    padding-bottom: 25px;
+
+}
+
+#label11{
+    font-size: 29px;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+    
+
+#p2{
+    margin-left: 60px;
+    font-size: 20px;
+    font-weight: bold;
+    opacity: 0.9;
+    margin-top: 4px;
+    margin-bottom: 0px;
+}
+
+#p3{
+    margin-left: 60px;
+    font-size: 17px;
+    font-weight: bold;
+    opacity: 0.9;
+    margin-top: 4px;
+    margin-bottom: 0px;
+}
+
+
+#p4{
+    margin-left: 60px;
+    font-size: 15px;
+    font-weight: bold;
+    opacity: 0.9;
+    margin-top: 4px;
+    margin-bottom: 0px;
+}
+
+
+#p5{
+    margin-left: 60px;
+    font-size: 14px;
+    font-weight: bold;
+    opacity: 0.9;
+    margin-top: 4px;
+    margin-bottom: 0px;
+}
+
+#label10{
+
+    font-size: 16px;
+    color: #737373;
+}
+
+
+#label7{
+
+    font-size: 16px;
+    color: #737373;
+}
+
+
+#label3{
+
+    font-size: 16px;
+    color: #737373;
+}
+
+
+
+#label4{
+
+    font-size: 15px;
+}
+
+
+#label6{
+
+    font-size: 15px;
+}
+
+
+
+#label9{
+
+    font-size: 15px;
+}
+
+
+#label01{
+
+    font-size: 17px;
+    padding-left: 15px;
+}
+
+#label02{
+
+    font-size: 17px;
+    padding-left: 15px;
+}
